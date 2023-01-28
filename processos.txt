@@ -1,5 +1,15 @@
+@Label conecta o input no label
+
+MOBILE
 -Classes e pseudoclasses HTML e CSS
 -Positions 
 	:(absolute - relative) 
 	top: 100% faz o item ficar totalmente acima do item filho
 -Utilizando SwiperJs para criar carrossel na página
+-Flex-wrap: wrap -> Faz a quebra de linha quando chega no final da página 
+
+TABLET
+-Como o início é pelo mobile se coloca min-width
+-Como o início é no Mobile, os itens que não aparecem em Mobile recebem Display None,
+	dessa forma a estilização fica apenas dentro do @mediaquerry colocando Display Block
+
