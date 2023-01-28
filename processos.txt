@@ -1,0 +1,5 @@
+-Classes e pseudoclasses HTML e CSS
+-Positions 
+	:(absolute - relative) 
+	top: 100% faz o item ficar totalmente acima do item filho
+-Utilizando SwiperJs para criar carrossel na página
